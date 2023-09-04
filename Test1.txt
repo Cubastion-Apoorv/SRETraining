@@ -1,0 +1,2 @@
+hi this is my first written file on vi and uploaded on GIT
+
